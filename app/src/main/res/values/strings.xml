@@ -2,4 +2,15 @@
     <string name="app_name">Nutrics, your shopping health Partner!</string>
     <string name="Welcome">Welcome to Nutrics!</string>
     <string name="h2">your Shopping and health guide to an organized life.</string>
+    <string name="new_list_btn_guest">Create Guest Grocery List</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="sign_up_btn">Create Account</string>
+    <string name="password_verify">Password:</string>
+    <string name="account_verify">Username:</string>
+    <string name="sign_in">Login</string>
+    <string name="new_pass">Password</string>
+    <string name="verify_new_pass">Re-type Password</string>
+    <string name="signup_btn">Create Account</string>
+
+
 </resources>
